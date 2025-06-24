@@ -12,6 +12,8 @@ This project is my version of the same program but written using C instead.
 >Cairo 2  
 GTK+ 3.0
 
+<br>
+
 ## Build
 
 You will need:
@@ -26,3 +28,9 @@ Navigate into the top-level of the project directory and run:
 To build the test program as well, run:
 
 >```make sorting_test```
+
+## Run
+
+After building the program as described above, run the program as follows:
+
+>```./sorting_visualized```
