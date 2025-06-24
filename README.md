@@ -7,6 +7,10 @@ This project is my version of the same program but written using C instead.
 
 <br>
 
+![screenshot](./screenshots/sorting_visualized.png)
+
+<br>
+
 ## Dependencies
 
 >Cairo 2  
